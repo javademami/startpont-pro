@@ -1,0 +1,32 @@
+LICENSE — Startpoint Pro Template
+
+Copyright (c) [Year] [Seller Name]. All rights reserved.
+
+1. GRANT OF LICENSE
+You receive a non-exclusive, non-transferable license to use this template to build and operate ONE website (a domain or subdomain) that you own or operate for yourself or for a single client who has paid you for the site.
+
+2. PERMITTED
+- Edit, customize and style the template for your site.
+- Use the template for your own business, personal brand, or a client project.
+- Host the site on any hosting provider.
+
+3. NOT PERMITTED
+- Redistributing, reselling, sublicensing, or sharing the template or its source files, in whole or in part, including on template marketplaces, GitHub, file-sharing sites, or as part of another template or theme pack.
+- Offering the template as a theme, builder, or service to multiple clients as a standalone product.
+- Removing or altering this license notice in the distributed files.
+
+4. THIRD-PARTY ASSETS
+- The Inter font is licensed under the SIL Open Font License 1.1. It is loaded from Google Fonts.
+- Images and videos included in the assets folder are sample/placeholder material. You must replace them with content you have the rights to use before publishing. The seller makes no claim that these samples may be used commercially, and you are responsible for any rights clearance of your own replacements.
+- Sample names, testimonials, contact details and project descriptions are fictional placeholders. You must replace them. Do not publish them as real endorsements.
+
+5. NO WARRANTY
+The template is provided "as is", without warranty of any kind. The seller is not liable for any damages arising from its use.
+
+6. TERMINATION
+This license terminates automatically if you breach any of these terms. On termination, you must stop using and delete all copies of the template.
+
+7. ENTIRE AGREEMENT
+This license is the complete agreement for the template. The seller may update it for future versions; purchases keep the terms in effect at the time of purchase.
+
+Contact: [your email here]
